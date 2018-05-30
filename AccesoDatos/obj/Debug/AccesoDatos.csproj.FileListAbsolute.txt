@@ -1,0 +1,10 @@
+C:\Users\kiwi_\Desktop\proyectofinal\AccesoDatos\bin\Debug\AccesoDatos.dll.config
+C:\Users\kiwi_\Desktop\proyectofinal\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\kiwi_\Desktop\proyectofinal\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\kiwi_\Desktop\proyectofinal\AccesoDatos\bin\Debug\EntityFramework.dll
+C:\Users\kiwi_\Desktop\proyectofinal\AccesoDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kiwi_\Desktop\proyectofinal\AccesoDatos\bin\Debug\EntityFramework.xml
+C:\Users\kiwi_\Desktop\proyectofinal\AccesoDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kiwi_\Desktop\proyectofinal\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\kiwi_\Desktop\proyectofinal\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\kiwi_\Desktop\proyectofinal\AccesoDatos\obj\Debug\AccesoDatos.pdb

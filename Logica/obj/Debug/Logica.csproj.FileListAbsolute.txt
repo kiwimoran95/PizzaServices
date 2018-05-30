@@ -1,0 +1,13 @@
+C:\Users\kiwi_\Desktop\proyectofinal\Logica\bin\Debug\Logica.dll
+C:\Users\kiwi_\Desktop\proyectofinal\Logica\bin\Debug\Logica.pdb
+C:\Users\kiwi_\Desktop\proyectofinal\Logica\bin\Debug\AccesoDatos.dll
+C:\Users\kiwi_\Desktop\proyectofinal\Logica\bin\Debug\Datos.dll
+C:\Users\kiwi_\Desktop\proyectofinal\Logica\bin\Debug\EntityFramework.dll
+C:\Users\kiwi_\Desktop\proyectofinal\Logica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kiwi_\Desktop\proyectofinal\Logica\bin\Debug\AccesoDatos.pdb
+C:\Users\kiwi_\Desktop\proyectofinal\Logica\bin\Debug\Datos.pdb
+C:\Users\kiwi_\Desktop\proyectofinal\Logica\bin\Debug\EntityFramework.xml
+C:\Users\kiwi_\Desktop\proyectofinal\Logica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kiwi_\Desktop\proyectofinal\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\kiwi_\Desktop\proyectofinal\Logica\obj\Debug\Logica.dll
+C:\Users\kiwi_\Desktop\proyectofinal\Logica\obj\Debug\Logica.pdb

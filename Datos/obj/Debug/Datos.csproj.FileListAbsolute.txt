@@ -1,0 +1,11 @@
+C:\Users\kiwi_\Desktop\proyectofinal\Datos\bin\Debug\Datos.dll
+C:\Users\kiwi_\Desktop\proyectofinal\Datos\bin\Debug\Datos.pdb
+C:\Users\kiwi_\Desktop\proyectofinal\Datos\bin\Debug\AccesoDatos.dll
+C:\Users\kiwi_\Desktop\proyectofinal\Datos\bin\Debug\EntityFramework.dll
+C:\Users\kiwi_\Desktop\proyectofinal\Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kiwi_\Desktop\proyectofinal\Datos\bin\Debug\AccesoDatos.pdb
+C:\Users\kiwi_\Desktop\proyectofinal\Datos\bin\Debug\EntityFramework.xml
+C:\Users\kiwi_\Desktop\proyectofinal\Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kiwi_\Desktop\proyectofinal\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\kiwi_\Desktop\proyectofinal\Datos\obj\Debug\Datos.dll
+C:\Users\kiwi_\Desktop\proyectofinal\Datos\obj\Debug\Datos.pdb
